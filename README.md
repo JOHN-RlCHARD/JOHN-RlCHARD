@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=JOHN-RlCHARD&style=for-the-badge&color=0cb4ac)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-john-rlchard.vercel.app/api?username=JOHN-RlCHARD&show_icons=true&hide=stars,prs&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-john-rlchard.vercel.app/api/top-langs/?username=JOHN-RlCHARD&theme=tokyonight&langs_count=3"/>
+  <img height="170em" src="https://github-readme-stats-john-rlchard.vercel.app/api?username=JOHN-RlCHARD&show_icons=true&hide=stars,prs&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-john-rlchard.vercel.app/api/top-langs/?username=JOHN-RlCHARD&theme=tokyonight&langs_count=3"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="John-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
